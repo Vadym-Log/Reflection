@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\bin\Debug\Task_03.exe.config
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\bin\Debug\Task_03.exe
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\bin\Debug\Task_03.pdb
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\obj\Debug\Task_03.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\obj\Debug\Task_03.Form1.resources
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\obj\Debug\Task_03.Properties.Resources.resources
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\obj\Debug\Task_03.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\obj\Debug\Task_03.exe
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_03\obj\Debug\Task_03.pdb
