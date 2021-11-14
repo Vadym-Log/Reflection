@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\bin\Debug\Task_02.exe.config
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\bin\Debug\Task_02.exe
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\bin\Debug\Task_02.pdb
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\bin\Debug\Task_01.dll
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\bin\Debug\Task_01.pdb
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\obj\Debug\Task_02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\obj\Debug\Task_02.csproj.CopyComplete
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\obj\Debug\Task_02.exe
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_02\obj\Debug\Task_02.pdb
