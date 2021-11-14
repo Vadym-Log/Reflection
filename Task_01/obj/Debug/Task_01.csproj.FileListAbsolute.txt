@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_01\bin\Debug\Task_01.dll
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_01\bin\Debug\Task_01.pdb
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_01\obj\Debug\Task_01.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_01\obj\Debug\Task_01.dll
+C:\Users\User\Desktop\ITEA\02 C# Advanced\Tasks\06_Reflection\Task_01\obj\Debug\Task_01.pdb
